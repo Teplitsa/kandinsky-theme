@@ -1,0 +1,1609 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Kandinsky\n"
+"POT-Creation-Date: 2020-09-02 21:02+0300\n"
+"PO-Revision-Date: 2020-06-22 06:53+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+
+#: 404.php:5
+msgid ""
+"Unfortunately this page has been removed or never exists. Please, use the "
+"search field to find the information you need or visit the homepage."
+msgstr ""
+
+#: 404.php:13
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:14
+msgid "Page not found"
+msgstr ""
+
+#: archive-leyka_campaign.php:27 index.php:18
+msgid "Unfortunately, nothing found"
+msgstr ""
+
+#: archive-leyka_donation.php:20
+msgid "Campaign"
+msgstr ""
+
+#: archive-leyka_donation.php:38
+msgid "Anonymous"
+msgstr ""
+
+#: core/admin-update-theme.php:50
+msgid "Updating Kandisky theme is in progress..."
+msgstr ""
+
+#: core/admin-update-theme.php:53
+msgid "Downloading latest version of Kandisky theme..."
+msgstr ""
+
+#: core/admin-update-theme.php:61
+msgid "You are going to update Kandinsky theme. Continue?"
+msgstr ""
+
+#: core/admin-update-theme.php:63
+msgid "Remove all my content and install Kandinsky demo content instead."
+msgstr ""
+
+#: core/admin-update-theme.php:67
+msgid "Yes, update theme to the latest version"
+msgstr ""
+
+#: core/admin-update-theme.php:68 core/admin.php:306
+msgid "Cancel"
+msgstr ""
+
+#: core/admin-update-theme.php:96
+msgid "Are you sure you want to delete your content?"
+msgstr ""
+
+#: core/admin-update-theme.php:97
+msgid "Unzipping theme archive..."
+msgstr ""
+
+#: core/admin-update-theme.php:98
+msgid "Downloading Kandinsky content..."
+msgstr ""
+
+#: core/admin-update-theme.php:99
+msgid "Upating title and description..."
+msgstr ""
+
+#: core/admin-update-theme.php:100
+msgid "Updating theme settings..."
+msgstr ""
+
+#: core/admin-update-theme.php:101
+msgid "Updating theme content..."
+msgstr ""
+
+#: core/admin-update-theme.php:102
+msgid "Updating donations..."
+msgstr ""
+
+#: core/admin-update-theme.php:103
+msgid "Kandinsky theme updated successfully."
+msgstr ""
+
+#: core/admin-update-theme.php:104
+msgid "Success!"
+msgstr ""
+
+#: core/admin-update-theme.php:105
+msgid "Failed!"
+msgstr ""
+
+#: core/admin-update-theme.php:106
+msgid "Visit site"
+msgstr ""
+
+#: core/admin-update-theme.php:133
+msgid "Unknown update action"
+msgstr ""
+
+#: core/admin-update-theme.php:141
+msgid "Success"
+msgstr ""
+
+#: core/admin-update-theme.php:146 core/admin-update-theme.php:183
+msgid "Unknown error"
+msgstr ""
+
+#: core/admin-update-theme.php:151
+msgid "Security check failed while updating theme"
+msgstr ""
+
+#: core/admin-update-theme.php:187
+msgid "Downloading theme file failed!"
+msgstr ""
+
+#: core/admin-update-theme.php:211
+msgid "Saving theme file failed!"
+msgstr ""
+
+#: core/admin.php:12
+msgid "Theme settings"
+msgstr ""
+
+#: core/admin.php:18
+msgid "Site title"
+msgstr ""
+
+#: core/admin.php:24 core/customizer/customizer-deprecated.php:91
+msgid "Decoration"
+msgstr ""
+
+#: core/admin.php:30
+msgid "\"Call to action\" button"
+msgstr ""
+
+#: core/admin.php:36
+msgid "Social media links"
+msgstr ""
+
+#: core/admin.php:42
+msgid "Change the site template"
+msgstr ""
+
+#: core/admin.php:48
+msgid "Content"
+msgstr ""
+
+#: core/admin.php:54
+msgid "Static pages"
+msgstr ""
+
+#: core/admin.php:60 core/customizer/theme-mods/header.php:222
+#: core/customizer/theme-mods/header.php:346
+#: core/customizer/theme-mods/menu.php:12
+msgid "Menu"
+msgstr ""
+
+#: core/admin.php:66 core/customizer/customizer-deprecated.php:508
+#: core/customizer/theme-mods/global.php:307 modules/news.php:8
+#: modules/starter/plot_config.php:205 modules/starter/plot_config.php:219
+#: modules/starter/plot_config.php:234 modules/starter/plot_config.php:462
+#: modules/starter/plot_config.php:475 modules/starter/plot_config.php:702
+#: modules/starter/plot_data_builder.php:528 modules/starter/sidebars.php:40
+msgid "News"
+msgstr ""
+
+#: core/admin.php:72 modules/project/widgets.php:7
+msgid "Projects"
+msgstr ""
+
+#: core/admin.php:78 modules/person/hooks.php:80 modules/person/tax.php:7
+msgid "Team"
+msgstr ""
+
+#: core/admin.php:84 modules/org/tax.php:6 modules/org/widgets.php:7
+msgid "Partners"
+msgstr ""
+
+#: core/admin.php:90
+msgid "Site footer"
+msgstr ""
+
+#: core/admin.php:96
+msgid "Plugins"
+msgstr ""
+
+#: core/admin.php:102
+msgid "SEO"
+msgstr ""
+
+#: core/admin.php:108 modules/donations/widgets.php:7
+msgid "Donations"
+msgstr ""
+
+#: core/admin.php:114
+msgid "Other"
+msgstr ""
+
+#: core/admin.php:120 core/customizer/customizer-deprecated.php:34
+#: core/customizer/theme-mods/global.php:360
+msgid "Documentation"
+msgstr ""
+
+#: core/admin.php:126
+msgid "Support Telegram channel"
+msgstr ""
+
+#: core/admin.php:132
+msgid "Email to the support"
+msgstr ""
+
+#: core/admin.php:138
+msgid "Report of an error"
+msgstr ""
+
+#: core/admin.php:144 core/admin.php:188
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: core/admin.php:150 core/admin.php:194 core/admin.php:331 core/admin.php:332
+msgid "Update theme"
+msgstr ""
+
+#: core/admin.php:164
+msgid "Theme Settings"
+msgstr ""
+
+#: core/admin.php:170
+msgid "Theme setup wizard"
+msgstr ""
+
+#: core/admin.php:176
+msgid "User documentation"
+msgstr ""
+
+#: core/admin.php:182
+msgid "Email to the tech support"
+msgstr ""
+
+#: core/admin.php:200 core/admin.php:338 core/admin.php:339
+msgid "Remove theme"
+msgstr ""
+
+#: core/admin.php:294
+msgid "Kandinsky theme removed"
+msgstr ""
+
+#: core/admin.php:302
+msgid "Are you sure you want to remove Kandinsky theme?"
+msgstr ""
+
+#: core/admin.php:305
+msgid "Yes, remove Kandinsky theme"
+msgstr ""
+
+#: core/admin.php:321
+msgid "Kandinsky settings"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: core/admin.php:321 core/admin.php:372 functions.php:184
+msgid "Kandinsky"
+msgstr ""
+
+#: core/admin.php:324 core/admin.php:325
+msgid "Kandinsky setup wizard"
+msgstr ""
+
+#: core/admin.php:415
+msgid "Dismiss"
+msgstr ""
+
+#: core/admin.php:417
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Kandinsky! To fully take advantage of the "
+"best our theme can offer please make sure you configured %snecessary theme "
+"settings%s."
+msgstr ""
+
+#: core/admin.php:421
+msgid "Open the theme setup wizard"
+msgstr ""
+
+#: core/admin.php:424
+msgid "Open theme settings"
+msgstr ""
+
+#: core/admin.php:456
+msgid "Yoast SEO"
+msgstr ""
+
+#: core/admin.php:460
+msgid "A great tool to boost your website SEO positions."
+msgstr ""
+
+#: core/admin.php:462
+msgid "Cyr to Lat enhanced"
+msgstr ""
+
+#: core/admin.php:466
+msgid ""
+"Small helper to seamlessly convert cyrillic pages slugs into latin ones."
+msgstr ""
+
+#: core/admin.php:468
+msgid "Disable Comments"
+msgstr ""
+
+#: core/admin.php:472
+msgid ""
+"Comments on the website may be harmful, so this small plugin turns them off."
+msgstr ""
+
+#: core/admin.php:474
+msgid "Shortcake (Shortcodes UI)"
+msgstr ""
+
+#: core/admin.php:479
+msgid ""
+"A visual editing for shortcodes to enrich your content management experience."
+msgstr ""
+
+#: core/admin.php:482
+msgid "Kirki Customizer Framework"
+msgstr ""
+
+#: core/admin.php:487
+msgid "The Ultimate WordPress Customizer Framework."
+msgstr ""
+
+#: core/admin.php:491
+msgid "Leyka"
+msgstr ""
+
+#: core/admin.php:496
+msgid "This plugin will add means for donations collection to your website."
+msgstr ""
+
+#: core/admin.php:518
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/admin.php:519
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/admin.php:521
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/admin.php:523
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/admin.php:524
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/admin.php:526
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin.php:530
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin.php:534
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin.php:538
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin.php:542
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin.php:546
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin.php:549
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin.php:550
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin.php:551
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin.php:552
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/admin.php:553
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/admin.php:554
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/admin.php:556
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/admin.php:559
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: core/admin.php:562
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/admin.php:563
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/admin.php:565
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/admin.php:567
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/admin.php:584
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: core/admin.php:588
+msgid "Action failed."
+msgstr ""
+
+#: core/admin.php:741
+msgid "Kandinsky — useful links"
+msgstr ""
+
+#: core/admin.php:833
+#, php-format
+msgid ""
+"ATTENTION! You thumbnail image is too small. It should be at least %s px"
+msgstr ""
+
+#: core/author.php:31
+msgid "Author"
+msgstr ""
+
+#: core/class-cssjs.php:87
+msgid "Continue"
+msgstr ""
+
+#: core/class-import.php:116 core/class-import.php:151
+#, php-format
+msgid "File wasn't uploaded: %s"
+msgstr ""
+
+#: core/class-import.php:125
+#, php-format
+msgid "%s - temporary download file doesn't exist"
+msgstr ""
+
+#: core/class-import.php:129
+#, php-format
+msgid "%s - a downloaded file already exists and can't be deleted"
+msgstr ""
+
+#: core/class-import.php:133
+#, php-format
+msgid "%s - a downloaded file isn't writable and can't be made so"
+msgstr ""
+
+#: core/class-import.php:137
+#, php-format
+msgid "Can't rename downloaded file: from %s to %s"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:28
+#: core/customizer/theme-mods/global.php:352
+msgid "Theme Info"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:31
+#: core/customizer/theme-mods/global.php:356
+msgid "Support"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:44
+#: core/customizer/customizer-deprecated.php:59
+#: core/customizer/theme-mods/global.php:343
+msgid "Important Links"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:77
+#: core/customizer/theme-mods/global.php:45
+msgid "Header text"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:96
+msgid "Color scheme"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:104
+#: core/customizer/customizer-deprecated.php:262
+#: core/customizer/theme-mods/global.php:54
+#: core/customizer/theme-mods/header.php:43
+msgid "Logo"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:161
+msgid "Action Color"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:171
+#: core/customizer/theme-mods/global.php:179
+msgid "Complimentary Color"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:181
+msgid "Dark Color"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:191
+msgid "Page Background Color"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:192
+#: core/customizer/customizer-deprecated.php:214
+#: core/customizer/theme-mods/global.php:149
+#: core/customizer/theme-mods/global.php:195
+msgid "Recommended - white"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:202
+#: core/customizer/theme-mods/global.php:132
+msgid "Main Text Color"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:203
+#: core/customizer/theme-mods/global.php:133
+msgid "Recommended - black"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:213
+#: core/customizer/theme-mods/global.php:194
+msgid "Inverse Text Color"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:224
+#: core/customizer/theme-mods/global.php:210
+msgid "Accent Text Color - 1"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:225
+#: core/customizer/customizer-deprecated.php:236
+#: core/customizer/theme-mods/global.php:211
+#: core/customizer/theme-mods/global.php:227
+msgid "Applicable only for Dubrovino template"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:235
+#: core/customizer/theme-mods/global.php:226
+msgid "Accent Text Color - 2"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:246
+#: core/customizer/theme-mods/global.php:30
+msgid "Logo mode"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:251
+#: core/customizer/theme-mods/global.php:35
+msgid "Image only"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:252
+#: core/customizer/theme-mods/global.php:36
+msgid "Image with site name"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:253
+#: core/customizer/theme-mods/global.php:37
+msgid "Site name only"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:254
+#: core/customizer/theme-mods/global.php:38
+msgid "Do not show"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:263
+#: core/customizer/theme-mods/global.php:56
+msgid ""
+"We recommend to use logos in the .svg format (vector graphics). If your logo "
+"is in rastre format, we recommend to upload pictures with the dimensions of "
+"630x132 px for the option \"Only Image\" or 132x13px for the option \"Image "
+"and Title\"."
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:280
+msgid "Homepage settings"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:281
+msgid "Homepage settings and blocks"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:286
+#: core/customizer/customizer-deprecated.php:318
+#: core/customizer/theme-mods/homepage.php:22
+#: core/customizer/theme-mods/homepage.php:30
+msgid "Hero Image"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:292
+#: core/customizer/theme-mods/homepage.php:229
+msgid "Static page settings"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:319
+#: core/customizer/theme-mods/homepage.php:32
+msgid "Recommended size 1600x663px"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:333
+#: core/customizer/customizer-deprecated.php:442
+#: core/customizer/theme-mods/homepage.php:42
+#: core/customizer/theme-mods/homepage.php:185
+msgid "Call to action title"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:342
+#: core/customizer/customizer-deprecated.php:451
+#: core/customizer/theme-mods/homepage.php:50
+#: core/customizer/theme-mods/homepage.php:193
+msgid "Call to action URL"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:351
+#: core/customizer/customizer-deprecated.php:460
+#: core/customizer/theme-mods/homepage.php:58
+#: core/customizer/theme-mods/homepage.php:201
+msgid "Call to action text"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:360
+#: core/customizer/customizer-deprecated.php:469
+#: core/customizer/theme-mods/homepage.php:66
+#: core/customizer/theme-mods/homepage.php:209
+msgid "Action button caption"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:368
+#: core/customizer/theme-mods/homepage.php:123
+msgid "Our organization columns settings"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:392
+#: core/customizer/theme-mods/homepage.php:141
+msgid "Column title"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:401
+#: core/customizer/theme-mods/homepage.php:149
+msgid "Column content"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:410
+#: core/customizer/theme-mods/homepage.php:157
+msgid "Column link caption"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:419
+#: core/customizer/theme-mods/homepage.php:165
+msgid "Column link URL"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:428
+#: core/customizer/theme-mods/homepage.php:177
+msgid "CTA block settings"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:477
+#: core/customizer/theme-mods/footer.php:49
+#: core/customizer/theme-mods/header.php:412
+msgid "Social networks links"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:501
+#: core/customizer/theme-mods/global.php:296
+msgid "Titles and captions"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:515
+#: core/customizer/theme-mods/global.php:305
+msgid "News archive title"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:524
+#: core/customizer/theme-mods/global.php:315 core/template-tags.php:244
+#: core/template-tags.php:351
+msgid "Our projects"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:531
+#: core/customizer/theme-mods/global.php:313
+msgid "Projects archive title"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:543
+#: core/customizer/theme-mods/global.php:326 core/template-tags.php:256
+#: modules/starter/plot_config.php:730 single-leyka_campaign.php:28
+#: single-leyka_campaign.php:43
+msgid "They need help"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:550
+#: core/customizer/theme-mods/global.php:324
+msgid "Active campaigns archive title"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:559
+#: core/customizer/theme-mods/global.php:334 core/template-tags.php:251
+#: single-leyka_campaign.php:24 single-leyka_campaign.php:44
+msgid "They alredy got help"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:566
+#: core/customizer/theme-mods/global.php:332
+msgid "Completed campaigns archive title"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:591
+msgid ""
+"In order to make Kandinsky work full speed, you will need few plugins. "
+"WordPress will install or update the following plugins:"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:594
+msgid "Plugin that allows web-font customization."
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:599
+msgid "Install"
+msgstr ""
+
+#: core/customizer/customizer-deprecated.php:602
+msgid "No, I’ll do it some other time"
+msgstr ""
+
+#: core/customizer/kirki.php:84
+msgid "Font Family"
+msgstr ""
+
+#: core/customizer/kirki.php:87
+msgid "Variant"
+msgstr ""
+
+#: core/customizer/kirki.php:90
+msgid "Color"
+msgstr ""
+
+#: core/customizer/kirki.php:93
+msgid "Font Size"
+msgstr ""
+
+#: core/customizer/kirki.php:96
+msgid "No image selected"
+msgstr ""
+
+#: core/customizer/kirki.php:99
+msgid "Remove"
+msgstr ""
+
+#: core/customizer/theme-mods/footer.php:12
+msgid "Footer"
+msgstr ""
+
+#: core/customizer/theme-mods/footer.php:28
+msgid "Go to the menu \"In the footer\""
+msgstr ""
+
+#: core/customizer/theme-mods/footer.php:30
+msgid "Go to Menu"
+msgstr ""
+
+#: core/customizer/theme-mods/footer.php:39 core/widgets.php:43
+msgid "Footer - Columns"
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:12
+msgid "Global"
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:21
+msgid "Site Properties"
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:67
+msgid "Fonts and colors"
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:76
+msgid "Main text"
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:103
+msgid "Headings"
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:148
+msgid "Page Background color"
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:164
+msgid "Buttons and links color"
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:243
+msgid "Analytics"
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:252
+msgid ""
+"Here you can insert the code for user analytics systems, Google Analytics or "
+"Yandex.Metrica. Below are 3 areas of the site where you can paste the code, "
+"depending on the requirements of the systems being installed. Just copy it "
+"here."
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:259
+msgid "Before </head>"
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:262
+#: core/customizer/theme-mods/global.php:274
+#: core/customizer/theme-mods/global.php:286
+msgid "Code can be copied here."
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:271
+msgid "At the beginning of <body>"
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:283
+msgid "Before </body>"
+msgstr ""
+
+#: core/customizer/theme-mods/global.php:383
+msgid "Additional CSS"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:12
+msgid "Header"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:20
+msgid "Select header template"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:54
+msgid "Name"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:63 core/shortcodes-ui.php:51
+msgid "Description"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:72
+msgid "Custom Text"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:88
+msgid "Font For Logo"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:94
+msgid "Use Default Font"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:124
+msgid "Logo Color"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:146
+msgid "Email"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:161
+msgid "Phone"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:176
+msgid "Address"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:192
+#: core/customizer/theme-mods/header.php:361 search.php:21
+msgid "Search"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:207
+#: core/customizer/theme-mods/header.php:396
+msgid "Social networks"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:223
+msgid "Go to the menu \"In the header\""
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:238
+#: core/customizer/theme-mods/header.php:376
+msgid "Button"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:246
+msgid "Button Text"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:262
+msgid "Button Link"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:277
+msgid "Additional Button"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:292
+msgid "Additional Button Text"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:312
+msgid "Additional Button Link"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:332
+msgid "Off-Canvas"
+msgstr ""
+
+#: core/customizer/theme-mods/header.php:338
+msgid "Display Off-Canvas"
+msgstr ""
+
+#: core/customizer/theme-mods/homepage.php:12
+msgid "Main page"
+msgstr ""
+
+#: core/customizer/theme-mods/homepage.php:81
+msgid "Overlay Gradient Start Color"
+msgstr ""
+
+#: core/customizer/theme-mods/homepage.php:92
+msgid "Overlay Gradient End Color"
+msgstr ""
+
+#: core/customizer/theme-mods/homepage.php:103
+msgid "Text Color"
+msgstr ""
+
+#: core/customizer/theme-mods/homepage.php:134
+msgid "Column "
+msgstr ""
+
+#: core/customizer/theme-mods/homepage.php:219 core/widgets.php:13
+msgid "Homepage - Content"
+msgstr ""
+
+#: core/customizer/theme-mods/other-pages.php:12
+msgid "Create other pages"
+msgstr ""
+
+#: core/customizer/theme-mods/other-pages.php:17
+#, php-format
+msgid ""
+"Если вам нужно создать новую страницу – кликните на кнопку ниже. Страницы "
+"управляются в разделе «<a href=\"%s\">Меню > Страницы</a>». Вы можете "
+"редактировать содержимое страниц, создавать и удалять страницы."
+msgstr ""
+
+#: core/customizer/theme-mods/other-pages.php:19
+msgid "Add new page"
+msgstr ""
+
+#: core/customizer/theme-mods/other-pages.php:21
+msgid ""
+"Помимо страниц в WordPress используются «Записи» – используйте их для "
+"создания новостей."
+msgstr ""
+
+#: core/customizer/theme-mods/other-pages.php:23
+msgid "Go to posts page"
+msgstr ""
+
+#: core/customizer/theme-mods/other-pages.php:25
+msgid ""
+"Если же вам нужно создать совершенно новые сущности (Например, «Заявки» или "
+"«Мероприятия») вы можете создать т.н. custom post type (пользовательский тип "
+"записи), например, с помощью плагина Custom Post Type UI <a href=\"https://"
+"ru.wordpress.org/plugins/custom-post-type-ui/\" target=\"_blank\">https://ru."
+"wordpress.org/plugins/custom-post-type-ui/</a>"
+msgstr ""
+
+#: core/extras.php:81
+msgid "More"
+msgstr ""
+
+#: core/extras.php:305
+msgid "VKontakte"
+msgstr ""
+
+#: core/extras.php:306
+msgid "E.g., https://vk.com/club0123456789"
+msgstr ""
+
+#: core/extras.php:308
+msgid "Odnoklassniki"
+msgstr ""
+
+#: core/extras.php:309
+msgid "E.g., https://ok.ru/profile/0123456789"
+msgstr ""
+
+#: core/extras.php:311
+msgid "Facebook"
+msgstr ""
+
+#: core/extras.php:312
+msgid "E.g., https://www.facebook.com/your-organization-page"
+msgstr ""
+
+#: core/extras.php:314
+msgid "Instagram"
+msgstr ""
+
+#: core/extras.php:315
+msgid "E.g., https://www.instagram.com/your-organization-page"
+msgstr ""
+
+#: core/extras.php:317
+msgid "Twitter"
+msgstr ""
+
+#: core/extras.php:318
+msgid "E.g., https://twitter.com/your-organization-page"
+msgstr ""
+
+#: core/extras.php:320
+msgid "Telegram"
+msgstr ""
+
+#: core/extras.php:321
+msgid "E.g., https://tlgrm.ru/channels/@your-organization-page"
+msgstr ""
+
+#: core/extras.php:323
+msgid "YouTube"
+msgstr ""
+
+#: core/extras.php:324
+msgid "E.g., https://youtube.com/channel/your-organization-channel"
+msgstr ""
+
+#: core/extras.php:369 modules/starter/import_remote_content.php:396
+#, php-format
+msgid "Old import files cleanup FAILED: %s."
+msgstr ""
+
+#: core/extras.php:448
+msgid "Recommended plugins to install"
+msgstr ""
+
+#: core/media.php:29
+msgid "Landscape thumbnail"
+msgstr ""
+
+#: core/media.php:30
+msgid "Post thumbnail"
+msgstr ""
+
+#: core/media.php:31
+msgid "Fixed for embed"
+msgstr ""
+
+#: core/shortcodes-ui.php:25
+msgid "Key phrase"
+msgstr ""
+
+#: core/shortcodes-ui.php:31
+msgid "Phrase text"
+msgstr ""
+
+#: core/shortcodes-ui.php:36 core/shortcodes-ui.php:86
+msgid "Subtitle"
+msgstr ""
+
+#: core/shortcodes-ui.php:45
+msgid "Image section"
+msgstr ""
+
+#: core/shortcodes-ui.php:55 modules/person/widgets.php:55
+msgid "Title"
+msgstr ""
+
+#: core/shortcodes-ui.php:57
+msgid "Image"
+msgstr ""
+
+#: core/shortcodes-ui.php:61
+msgid "Select image"
+msgstr ""
+
+#: core/shortcodes-ui.php:62
+msgid "Select section image"
+msgstr ""
+
+#: core/shortcodes-ui.php:64
+msgid "Text placement"
+msgstr ""
+
+#: core/shortcodes-ui.php:75 modules/cta.php:10
+msgid "CTA block"
+msgstr ""
+
+#: core/shortcodes-ui.php:81
+msgid "CTA text"
+msgstr ""
+
+#: core/shortcodes-ui.php:92
+msgid "Link"
+msgstr ""
+
+#: core/shortcodes-ui.php:98
+msgid "Button label"
+msgstr ""
+
+#: core/shortcodes-ui.php:107
+msgid "Video caption"
+msgstr ""
+
+#: core/shortcodes-ui.php:109
+msgid "A caption text"
+msgstr ""
+
+#: core/shortcodes-ui.php:114
+msgid "A list of people"
+msgstr ""
+
+#: core/shortcodes-ui.php:124 core/shortcodes-ui.php:163
+msgid "List title"
+msgstr ""
+
+#: core/shortcodes-ui.php:128
+msgid "E.g., \"Our team\""
+msgstr ""
+
+#: core/shortcodes-ui.php:129
+msgid "Nubmer"
+msgstr ""
+
+#: core/shortcodes-ui.php:131
+msgid "Person categories"
+msgstr ""
+
+#: core/shortcodes-ui.php:137
+msgid "Only particular people in the list"
+msgstr ""
+
+#: core/shortcodes-ui.php:143
+msgid "Custom CSS class"
+msgstr ""
+
+#: core/shortcodes-ui.php:148 core/shortcodes-ui.php:186
+msgid "An additional CSS class (or several) for the section"
+msgstr ""
+
+#: core/shortcodes-ui.php:153
+msgid "A list of organizations"
+msgstr ""
+
+#: core/shortcodes-ui.php:167
+msgid "E.g., \"Our partners\""
+msgstr ""
+
+#: core/shortcodes-ui.php:169
+msgid "Organization categories"
+msgstr ""
+
+#: core/shortcodes-ui.php:175
+msgid "Only particular organizations in the list"
+msgstr ""
+
+#: core/shortcodes-ui.php:181
+msgid "Section CSS class"
+msgstr ""
+
+#: core/shortcodes.php:261
+msgid "Recommendations:"
+msgstr ""
+
+#: core/template-tags.php:160
+msgid "Page"
+msgstr ""
+
+#: core/template-tags.php:239
+msgid "Donations history"
+msgstr ""
+
+#: core/template-tags.php:261
+msgid "Search results"
+msgstr ""
+
+#: core/template-tags.php:264
+msgid "404: Page not found"
+msgstr ""
+
+#: core/template-tags.php:350
+msgid "More projects"
+msgstr ""
+
+#: core/template-tags.php:353
+msgid "More news"
+msgstr ""
+
+#: core/template-tags.php:354
+msgid "Latest news"
+msgstr ""
+
+#: core/template-tags.php:381
+msgid "Related project"
+msgstr ""
+
+#: core/template-tags.php:399
+msgid "Help now"
+msgstr ""
+
+#: core/template-tags.php:736
+msgid "Search ..."
+msgstr ""
+
+#: core/widgets.php:15
+msgid "Homepage custom content area"
+msgstr ""
+
+#: core/widgets.php:23
+msgid "News - bottom panel"
+msgstr ""
+
+#: core/widgets.php:25
+msgid "Bottom blocks for news archive page"
+msgstr ""
+
+#: core/widgets.php:33
+msgid "Archives - bottom panel"
+msgstr ""
+
+#: core/widgets.php:35
+msgid "Bottom blocks for archive and search pages"
+msgstr ""
+
+#: core/widgets.php:45
+msgid ""
+"Footer columns area accepts 4 widgets. Does not accept wide widgets, like "
+"News, Partners, Projects, Donations or CTA. You should place here widgets "
+"like Custom HTML, Custom Menu, Text etc."
+msgstr ""
+
+#: footer.php:10
+msgid "Creative Commons СС-BY-SA 3.0"
+msgstr ""
+
+#: footer.php:51
+#, php-format
+msgid "All materials of the site are avaliabe under license %s"
+msgstr ""
+
+#: footer.php:58
+msgid "Project Kandinsky"
+msgstr ""
+
+#: footer.php:59
+msgid "Powered by Kandinsky"
+msgstr ""
+
+#: functions.php:85
+msgid "Primary menu"
+msgstr ""
+
+#. Author of the plugin/theme
+#: functions.php:185
+msgid "Teplitsa"
+msgstr ""
+
+#. Description of the plugin/theme
+#: functions.php:186
+msgid "The beautiful design and useful features for nonprofit website"
+msgstr ""
+
+#: modules/cta.php:6
+msgid "Call To Action block"
+msgstr ""
+
+#: modules/cta.php:23
+msgid "You can change CTA text and link in "
+msgstr ""
+
+#: modules/cta.php:24
+msgid "Appearence / Customize / CTA block settings"
+msgstr ""
+
+#: modules/donations/donations.php:60
+msgid "Please, specify your donation amount"
+msgstr ""
+
+#: modules/donations/donations.php:67
+msgid "or"
+msgstr ""
+
+#: modules/donations/donations.php:68
+msgid "Specify the amount of your donation"
+msgstr ""
+
+#: modules/donations/donations.php:128
+#, php-format
+msgid "Thumbnail for - %s"
+msgstr ""
+
+#: modules/donations/donations.php:144
+msgid ""
+"Thank you for you support. This campaign is finished and help is going to be "
+"provided. Please follow the updates."
+msgstr ""
+
+#: modules/donations/donations.php:167
+msgid "Collected"
+msgstr ""
+
+#: modules/donations/donations.php:173
+msgid "Needed"
+msgstr ""
+
+#: modules/donations/donations.php:297
+msgid "Charity"
+msgstr ""
+
+#: modules/donations/donations.php:317
+msgid "Kid age"
+msgstr ""
+
+#: modules/donations/widgets.php:8
+msgid "Donations short list"
+msgstr ""
+
+#: modules/news.php:9
+msgid "Latest news list"
+msgstr ""
+
+#: modules/org/widgets.php:8
+msgid "Partner organization banners list"
+msgstr ""
+
+#: modules/org/widgets.php:47 modules/ourorg.php:70
+#: modules/project/widgets.php:47
+msgid "Title:"
+msgstr ""
+
+#: modules/org/widgets.php:52 modules/project/widgets.php:52
+msgid "Number:"
+msgstr ""
+
+#: modules/ourorg.php:8
+msgid "Our organization description on main page"
+msgstr ""
+
+#: modules/ourorg.php:17
+msgid "Our organization"
+msgstr ""
+
+#: modules/ourorg.php:74
+msgid "Content:"
+msgstr ""
+
+#: modules/person/hooks.php:76 modules/person/tax.php:6
+msgid "Volonteers"
+msgstr ""
+
+#: modules/person/hooks.php:84
+msgid "Board"
+msgstr ""
+
+#: modules/person/widgets.php:7
+msgid "People list"
+msgstr ""
+
+#: modules/person/widgets.php:8
+msgid "Gallery of people - eg. team"
+msgstr ""
+
+#: modules/person/widgets.php:60
+msgid "Number of persons to output"
+msgstr ""
+
+#: modules/person/widgets.php:65
+msgid "Category"
+msgstr ""
+
+#: modules/person/widgets.php:67
+msgid "Select a category"
+msgstr ""
+
+#: modules/project/widgets.php:8
+msgid "Projects short list"
+msgstr ""
+
+#: modules/project/widgets.php:66 modules/starter/plot_config.php:224
+#: modules/starter/plot_config.php:479 modules/starter/plot_config.php:720
+msgid "Kandinsky projects block menu"
+msgstr ""
+
+#: modules/starter/import_remote_content.php:301
+#, php-format
+msgid "Plot name is unknown or not given: %s"
+msgstr ""
+
+#: modules/starter/import_remote_content.php:385
+msgid "No zip file"
+msgstr ""
+
+#: modules/starter/import_remote_content.php:389
+#, php-format
+msgid "Zip file not found: %s"
+msgstr ""
+
+#: modules/starter/import_remote_content.php:413
+#, php-format
+msgid "Unzip FAILED: %s to %s. Error: %s"
+msgstr ""
+
+#: modules/starter/import_remote_content.php:426
+msgid "No git content dir!"
+msgstr ""
+
+#: modules/starter/import_remote_content.php:430
+#, php-format
+msgid "Unzipped dir not found: %s"
+msgstr ""
+
+#: modules/starter/import_remote_content.php:436
+#, php-format
+msgid "Plot dir not found: %s"
+msgstr ""
+
+#: modules/starter/plot_config.php:201 modules/starter/plot_config.php:457
+#: modules/starter/plot_config.php:698 template-parts/headers/header-0.php:57
+#: template-parts/offcanvas.php:28
+msgid "Main menu"
+msgstr ""
+
+#: modules/starter/plot_config.php:212 modules/starter/plot_config.php:467
+#: modules/starter/plot_config.php:709 modules/starter/sidebars.php:13
+msgid "Kandinsky our work footer menu"
+msgstr ""
+
+#: modules/starter/plot_config.php:218 modules/starter/plot_config.php:473
+#: modules/starter/plot_config.php:714 modules/starter/sidebars.php:16
+msgid "Kandinsky news footer menu"
+msgstr ""
+
+#: modules/starter/plot_config.php:461 modules/starter/plot_config.php:474
+#: modules/starter/plot_config.php:480
+msgid "Extertise"
+msgstr ""
+
+#: modules/starter/plot_data_builder.php:109
+msgid "I accept"
+msgstr ""
+
+#: modules/starter/plot_data_builder.php:110
+msgid "Terms of Service"
+msgstr ""
+
+#: modules/starter/plot_data_builder.php:522
+msgid "Home page"
+msgstr ""
+
+#: modules/starter/sidebars.php:25
+msgid "About Us"
+msgstr ""
+
+#: modules/starter/sidebars.php:33
+msgid "Our Work"
+msgstr ""
+
+#: modules/starter/sidebars.php:48
+msgid "Security policy"
+msgstr ""
+
+#: search.php:28
+#, php-format
+msgid "%s result"
+msgid_plural "%s results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:35
+msgid "Enter terms for search in the form and hit Enter"
+msgstr ""
+
+#: search.php:39
+msgid "Nothing found under your request"
+msgstr ""
+
+#: searchform.php:8
+msgid "Find"
+msgstr ""
+
+#: searchform.php:9
+msgid "Press Enter"
+msgstr ""
+
+#: single.php:91
+msgid "Related items"
+msgstr ""
+
+#: single.php:103
+msgid "Related projects"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/Teplitsa/Kandinsky"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://te-st.ru/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr ""
