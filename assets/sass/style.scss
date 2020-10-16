@@ -1,8 +1,11 @@
 // Styles fot frontend
 
+//settings and functions
+@import 'file-header';
+
 //dependencies
-@import 'bourbon';
-@import 'modularscale';
+@import 'addons/bourbon';
+@import 'addons/modularscale';
 
 //settings and functions
 @import 'variables';

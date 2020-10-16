@@ -5,8 +5,8 @@
 @font-face {
 	font-family: 'SourceSansPro';
 	src:	local('☺'),
-			url('../fonts/SourceSansPro-Regular-Cyr.woff2') format('woff2'),
-			url('../fonts/SourceSansPro-Regular.ttf') format('truetype');
+			url('assets/fonts/SourceSansPro-Regular-Cyr.woff2') format('woff2'),
+			url('assets/fonts/SourceSansPro-Regular.ttf') format('truetype');
 	font-weight: 400;
 	font-style: normal;
 	unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
@@ -15,8 +15,8 @@
 @font-face {
     font-family: 'SourceSansPro';
     src:    local('☺'),
-            url('../fonts/SourceSansPro-Regular-Lat.woff2') format('woff2'),
-            url('../fonts/SourceSansPro-Regular.ttf') format('truetype');
+            url('assets/fonts/SourceSansPro-Regular-Lat.woff2') format('woff2'),
+            url('assets/fonts/SourceSansPro-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
@@ -25,8 +25,8 @@
 @font-face {
     font-family: 'SourceSansPro';
     src:    local('☺'),
-            url('../fonts/SourceSansPro-SemiBold-Cyr.woff2') format('woff2'),
-            url('../fonts/SourceSansPro-SemiBold.ttf') format('truetype');
+            url('assets/fonts/SourceSansPro-SemiBold-Cyr.woff2') format('woff2'),
+            url('assets/fonts/SourceSansPro-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
@@ -35,8 +35,8 @@
 @font-face {
     font-family: 'SourceSansPro';
     src:    local('☺'),
-            url('../fonts/SourceSansPro-SemiBold-Lat.woff2') format('woff2'),
-            url('../fonts/SourceSansPro-SemiBold.ttf') format('truetype');
+            url('assets/fonts/SourceSansPro-SemiBold-Lat.woff2') format('woff2'),
+            url('assets/fonts/SourceSansPro-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
@@ -46,8 +46,8 @@
 @font-face {
     font-family: 'Exo2';
     src:    local('☺'),
-            url('../fonts/Exo2-Regular-Cyr.woff2') format('woff2'),
-            url('../fonts/Exo2-Regular.ttf') format('truetype');
+            url('assets/fonts/Exo2-Regular-Cyr.woff2') format('woff2'),
+            url('assets/fonts/Exo2-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
@@ -56,8 +56,8 @@
 @font-face {
     font-family: 'Exo2';
     src:    local('☺'),
-            url('../fonts/Exo2-Regular-Lat.woff2') format('woff2'),
-            url('../fonts/Exo2-Regular.ttf') format('truetype');
+            url('assets/fonts/Exo2-Regular-Lat.woff2') format('woff2'),
+            url('assets/fonts/Exo2-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
@@ -66,8 +66,8 @@
 @font-face {
     font-family: 'Exo2';
     src:    local('☺'),
-            url('../fonts/Exo2-SemiBold-Cyr.woff2') format('woff2'),
-            url('../fonts/Exo2-SemiBold.ttf') format('truetype');
+            url('assets/fonts/Exo2-SemiBold-Cyr.woff2') format('woff2'),
+            url('assets/fonts/Exo2-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
@@ -76,8 +76,8 @@
 @font-face {
     font-family: 'Exo2';
     src:    local('☺'),
-            url('../fonts/Exo2-SemiBold-Lat.woff2') format('woff2'),
-            url('../fonts/Exo2-SemiBold.ttf') format('truetype');
+            url('assets/fonts/Exo2-SemiBold-Lat.woff2') format('woff2'),
+            url('assets/fonts/Exo2-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
@@ -86,8 +86,8 @@
 @font-face {
     font-family: 'Exo2';
     src:    local('☺'),
-            url('../fonts/Exo2-ExtraBold-Cyr.woff2') format('woff2'),
-            url('../fonts/Exo2-ExtraBold.ttf') format('truetype');
+            url('assets/fonts/Exo2-ExtraBold-Cyr.woff2') format('woff2'),
+            url('assets/fonts/Exo2-ExtraBold.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
     unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
@@ -96,8 +96,8 @@
 @font-face {
     font-family: 'Exo2';
     src:    local('☺'),
-            url('../fonts/Exo2-ExtraBold-Lat.woff2') format('woff2'),
-            url('../fonts/Exo2-ExtraBold.ttf') format('truetype');
+            url('assets/fonts/Exo2-ExtraBold-Lat.woff2') format('woff2'),
+            url('assets/fonts/Exo2-ExtraBold.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
