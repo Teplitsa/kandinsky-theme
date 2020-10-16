@@ -18,8 +18,6 @@
 
 <body id="top" <?php body_class(); ?>>
 
-<?php include_once get_template_directory() . '/assets/svg/svg.svg'; // all svgs. ?>
-
 	<?php get_template_part( 'template-parts/header' ); ?>
 
 	<div id="site_content" class="site-content">

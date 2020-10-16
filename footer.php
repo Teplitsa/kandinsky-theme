@@ -70,7 +70,7 @@ $footer_text = knd_get_theme_mod( 'footer_text' );
 
 <?php wp_footer(); ?>
 
-<?php print_r( get_option( 'shmapper-by-teplitsa') ); ?>
+<?php require_once get_template_directory() . '/assets/svg/svg.svg'; // all svgs. ?>
 
 </body>
 </html>

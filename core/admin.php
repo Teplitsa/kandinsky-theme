@@ -141,7 +141,7 @@ function knd_get_admin_menu_items( $place = '' ) {
 		        	'theme-version' => array(
 		        		'class' => '',
 		        		'icon' => 'dashicons-tag',
-		        		'text' => sprintf( esc_html__( 'Version %s', 'knd' ), KND_VERSION),
+		        		'text' => sprintf( esc_html__( 'Version %s', 'knd' ), KANDINSKY_VERSION ),
 		        		'link' => KND_SOURCES_PAGE_URL
 		        	),
 		        	'update-theme' => array(
@@ -185,7 +185,7 @@ function knd_get_admin_menu_items( $place = '' ) {
                 	'theme-version' => array(
                 		'class' => '',
                 		'icon' => 'dashicons-tag',
-                		'text' => sprintf( esc_html__( 'Version %s', 'knd' ), KND_VERSION),
+                		'text' => sprintf( esc_html__( 'Version %s', 'knd' ), KANDINSKY_VERSION ),
                 		'link' => KND_SOURCES_PAGE_URL
                 	),
                 	'update-theme' => array(

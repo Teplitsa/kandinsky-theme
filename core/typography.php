@@ -12,7 +12,7 @@ if ( ! defined( 'WPINC' ) ) {
 /**
  * Add inline styles
  */
-function knd_inline_style() {
+function kandinsky_inline_style() {
 
 	$main_color = knd_get_main_color();
 	$dark_color = knd_color_luminance( $main_color, - 0.1 ); // @to_do calculate it
@@ -139,6 +139,6 @@ function knd_inline_style() {
 
 	';
 
-	wp_add_inline_style( 'frl-design', $custom_css );
+	wp_add_inline_style( 'kandinsky', $custom_css );
 }
-add_action( 'wp_enqueue_scripts', 'knd_inline_style', 40 );
+add_action( 'wp_enqueue_scripts', 'kandinsky_inline_style', 40 );
