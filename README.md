@@ -1,2 +1,0 @@
-# kandinsky-theme
-Kandinsky
